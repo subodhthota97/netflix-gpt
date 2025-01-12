@@ -31,6 +31,13 @@
 - Built secondary component 
 - Built movie list 
 - TMDB Image CDN URL 
+- Made browse page amazing using tailwind 
+- usePopularMovies custom hook
+- GPT Search Page
+- GPT Search Bar
+- Multi language feature in our app
+                                                                                                  
+
 
 
 # Features 
@@ -47,3 +54,15 @@
 - NetflixGPT
     - Search Bar
     - Movie Suggestions
+
+# Packages 
+- Firebase
+    - npm install -g firebase-tools
+    - firebase login
+    - firebase init
+    - firebase deploy
+
+- Redux
+    - npm i -D @reduxjs/toolkit
+    - npm i react-redux
+
